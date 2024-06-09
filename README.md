@@ -16,21 +16,6 @@ I am a passionate and dedicated Front-End Developer with over 3+ years of experi
 - **Tools:** Webpack, Babel, ESLint, Git, Figma, Linux, Bash
 - **Soft Skills:** Excellent written and communication skills, Strong time management, Critical and analytical thinking, Teamwork
 
-## 🔧 Work Experience
-
-- **Senior Frontend Engineer** @ Genesis Orb (May 2024 - Present)
-  - Leading the development of an e-commerce site.
-
-- **Senior Frontend Engineer** @ Joto (Aug 2023 - Feb 2024)
-  - Refactored the forum application codebase from Pug to Vue JS, enhancing maintainability.
-  - Built and optimized an agency web application, increasing page load speed by 15%.
-
-- **Python Developer - Intern** @ Digital Fortress Institution (Jan 2023 - Jun 2023)
-  - Developed a desktop application to track student and employee performance, improving data accessibility.
-  - Reduced data entry errors by 25% through automation.
-
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ## 🎓 Education
 
 - **High School Certificate** @ Universal Whitehall College (Sep 2014 - Mar 2021)
