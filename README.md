@@ -2,7 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AnonSols&color=blueviolet" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Egede+Solomon+Ubeath!;I'm+a+Front-End+Developer;a+UI%2FUX+Designer;I'm+a+React+JS+Specialist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Egede+Solomon+Ubeath!;I'm+a+Front-End+Developer;A+UI%2FUX+Designer;A+Junior+Software+Engineer;I'm+a+React+JS+Specialist;" />
 </h1>
 
 <h3 align="center">I am a passionate and dedicated Front-End Developer and Junior Software Engineer with over 3+ years of experience in React JS and UI/UX design. I am currently pursuing a Diploma in Software Engineering at Aptech and a Bachelor’s Degree at Middlesex University.</h3>
@@ -58,7 +58,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<!--   <img width=390 src="https://github-readme-streak-stats-AnonSols.vercel.app/?user=AnonSols&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnonSols&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <!--   <img width=390 src="https://github-readme-stats-AnonSols.vercel.app/api?username=AnonSols&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonSols&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="readme stats" />
@@ -77,3 +76,7 @@
 </div>
 
 <br/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+passing+by+❤️" />
+</h1>
