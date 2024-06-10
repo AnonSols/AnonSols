@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **Shortlet Management System**
  
- 🌱 I’m currently learning **C++, Rust, nextJS**
+ 🌱 I’m currently learning **C++, Rust, NextJS**
 
 💬 Ask me about **C, React, Supabase... or anything [here](https://github.com/AnonSols/AnonSols/issues)**
 
@@ -38,7 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,c++,mui,styledComponent,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,cpp,mui,styledComponents,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,supabase,mongodb,c,redux,nextjs,rust" /><br>
 </div>
 
