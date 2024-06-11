@@ -30,9 +30,10 @@
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="#" target="_blank">
-     <img src="https://x.com/sigma_ubeath?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://x.com/sigma_ubeath" target="_blank">
+     <img src="https://img.shields.io/badge/x-FF5722?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+ 
 </div>
 
  <hr/>
