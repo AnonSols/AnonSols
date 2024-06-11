@@ -6,8 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Egede+Solomon+Ubeath!;I'm+a+Front-End+Developer;A+UI%2FUX+Designer;A+Junior+Software+Engineer;I'm+a+React+JS+Specialist;" />
 </h1>
 
-<div align="center"> 
+<div text="center">
+
 <h3 align="center">I am a passionate and dedicated Front-End Developer and Junior Software Engineer with over 3+ years of experience in React JS and UI/UX design. I am currently pursuing a Diploma in Software Engineering at Aptech and a Bachelor’s Degree at Middlesex University.</h3>
+
+ <img align="right" src= "https://i.imgur.com/8zTadcW.png" />
+</div>
 
 <br/>
 
@@ -23,8 +27,8 @@
 
  </div>
 
- <img align="right" src= "https://i.imgur.com/8zTadcW.png" />
-</div>
+
+
 
  
 <div align="center"> 
