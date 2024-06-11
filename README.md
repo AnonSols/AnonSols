@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <img align="right" src="https://komarev.com/ghpvc/?username=AnonSols&color=blueviolet" />
 
 <h1 align="center">
@@ -17,7 +17,7 @@
 
 💬 Ask me about **C, React, Supabase... or anything [here](https://github.com/AnonSols/AnonSols/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Did you know that honey never spoils?**
 
  </div>
  
