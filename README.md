@@ -54,8 +54,10 @@
 </div>
 <br /><br />
 <div align="center">
-  <a href="https://github.com/AnonSols/cv/raw/main/Ubeath'sCv.docx" download>
-    <img src="https://img.shields.io/badge/Download%20My%20CV-32CD32?style=for-the-badge&logo=download" alt="Download CV" width="180" height="80">
+  <a href="https://github.com/AnonSols/cv/raw/main/Ubeath'sCV.docx" download>
+   <button style="background-color: #32CD32; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">
+      Download My CV
+    </button>
   </a>
 </div>
 
