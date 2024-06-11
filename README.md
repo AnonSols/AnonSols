@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-
+<br />
  <img align="right" src= "https://i.imgur.com/8zTadcW.png"  width="310" height="310"/>
  <br />
 
