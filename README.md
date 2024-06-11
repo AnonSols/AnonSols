@@ -55,7 +55,7 @@
 <br /><br />
 <div align="center">
   <a href="https://github.com/AnonSols/cv/raw/main/Ubeath'sCV.docx" download>
-     <img src="https://via.placeholder.com/150x50.png?text=Download+My+CV" alt="Download CV" style="border-radius: 25px;">
+        <img src="https://img.shields.io/badge/Download%20My%20CV-32CD32?style=for-the-badge&logo=download" alt="Download CV"
   </a>
 </div>
 
