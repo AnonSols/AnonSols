@@ -55,9 +55,7 @@
 <br /><br />
 <div align="center">
   <a href="https://github.com/AnonSols/cv/raw/main/Ubeath'sCV.docx" download>
-   <button style="background-color: #32CD32; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">
-      Download My CV
-    </button>
+     <img src="https://via.placeholder.com/150x50.png?text=Download+My+CV" alt="Download CV" style="border-radius: 25px;">
   </a>
 </div>
 
@@ -82,7 +80,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AnonSols/AnonSols/output/github-contribution-grid-snake.svg" />
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
   <br/><br/><br/>
 </div>
 
@@ -94,7 +91,6 @@
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnonSols&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonSols&layout=compact&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<!--  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonSols&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
   
 <br />
     
