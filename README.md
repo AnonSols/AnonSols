@@ -1,5 +1,5 @@
 
-<img align="right" src= "https://skfb.ly/oWrFH" />
+<img align="right" src= "https://imgur.com/a/m1FKQOk" />
 <img align="right" src="https://komarev.com/ghpvc/?username=AnonSols&color=blueviolet" />
 
 <h1 align="center">
