@@ -1,3 +1,4 @@
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <img align="right" src="https://komarev.com/ghpvc/?username=AnonSols&color=blueviolet" />
 
 <h1 align="center">
