@@ -8,7 +8,7 @@
 
 <div align="center">
 
- <img align="right" src= "https://i.imgur.com/8zTadcW.png"  width="330" height="330"/>
+ <img align="right" src= "https://i.imgur.com/8zTadcW.png"  width="310" height="310"/>
  <br />
 
 <h3 align="center">I am a passionate and dedicated Front-End Developer and Junior Software Engineer with over 3+ years of experience in React JS and UI/UX design. I am currently pursuing a Diploma in Software Engineering at Aptech and a Bachelor’s Degree at Middlesex University.</h3>
