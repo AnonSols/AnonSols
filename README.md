@@ -1,4 +1,5 @@
 
+<img align="right" src="https://models.readyplayer.me/6667b7ff10afcef8630cb3dd.glb" />
 <img align="right" src="https://komarev.com/ghpvc/?username=AnonSols&color=blueviolet" />
 
 <h1 align="center">
