@@ -55,7 +55,7 @@
 <br /><br />
 <div align="center">
   <a href="https://github.com/AnonSols/your-repo-name/raw/main/your-cv-file-name.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20My%20CV-32CD32?style=for-the-badge&logo=download" alt="Download CV" width="200" height="200">
+    <img src="https://img.shields.io/badge/Download%20My%20CV-32CD32?style=for-the-badge&logo=download" alt="Download CV" width="200" height="120">
   </a>
 </div>
 
