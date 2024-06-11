@@ -18,7 +18,7 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
  
  🔭 I’m currently working on **Shortlet Management System**
  
