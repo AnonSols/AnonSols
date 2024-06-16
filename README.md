@@ -68,6 +68,10 @@
     <img src="https://skillicons.dev/icons?i=react,cpp,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,supabase,mongodb,c,redux,nextjs,rust" /><br>
 </div>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+</h3>
 <div align="center">
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
