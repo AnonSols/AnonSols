@@ -103,7 +103,11 @@
 
 </div>
 
-<br/><br/>
+<br/>
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=AnonSols&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+<br/>
 
 <hr/>
 
