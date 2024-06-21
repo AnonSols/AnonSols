@@ -14,7 +14,7 @@
  <img align="right" src= "https://i.imgur.com/8zTadcW.png" alt="3D AVATAR" width="298" height="310"/>
 </div>
 <br />
-<h3 align="center">I am a passionate and dedicated Front-End Developer and Junior Software Engineer with over 3+ years of experience in React JS and UI/UX design. I am currently pursuing a Diploma in Software Engineering at Aptech and a Bachelor’s Degree at Middlesex University.</h3>
+<h3 align="center">I am a passionate and dedicated Front-End Developer and Junior Software Engineer with over 3+ years of experience in React JS and UI/UX design. </h3>
 
 </div>
 
