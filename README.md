@@ -22,9 +22,9 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **Shortlet Management System**
+ 🔭 I’m currently working on **SAAS**
  
- 🌱 I’m currently learning **C++, Rust, NextJS**
+ 🌱 I’m currently learning **C++, Rust **
 
 💬 Ask me about **C, React, Supabase... or anything [here](https://github.com/AnonSols/AnonSols/issues)**
 
