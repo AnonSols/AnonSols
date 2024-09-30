@@ -24,7 +24,7 @@
  
  🔭 I’m currently working on **SAAS**
  
- 🌱 I’m currently learning **C++, Rust **
+ 🌱 I’m currently learning **C++, Rust**
 
 💬 Ask me about **C, React, Supabase... or anything [here](https://github.com/AnonSols/AnonSols/issues)**
 
