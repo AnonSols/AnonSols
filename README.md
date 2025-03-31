@@ -3,7 +3,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AnonSols&color=blueviolet" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Egede+Solomon+Ubeath!;I'm+a+Front-End+Developer;A+UI%2FUX+Designer;A+Junior+Software+Engineer;I'm+a+React+JS+Specialist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Egede+Solomon+Ubeath!;I'm+a+Front-End+Engineer;A+UI%2FUX+Designer;A+Software+Engineer;I'm+a+React+JS+Specialist;" />
 </h1>
 
 <div align="center">
@@ -14,7 +14,7 @@
  <img align="right" src= "https://i.imgur.com/8zTadcW.png" alt="3D AVATAR" width="298" height="310"/>
 </div>
 <br />
-<h3 align="center">I am a passionate and dedicated Front-End Developer and Junior Software Engineer with over 3+ years of experience in React JS and UI/UX design. </h3>
+<h3 align="center">I am a passionate and dedicated Front-End Developer and Junior Software Engineer with over 4+ years of experience in React JS and UI/UX design. </h3>
 
 </div>
 
