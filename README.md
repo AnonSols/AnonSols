@@ -42,7 +42,7 @@
   </a>
 <div align="center">
 
-  <a href="[https://github.com/AnonSols/cv/raw/main/Ubeath'sCV.docx](https://github.com/AnonSols/cv/raw/main/Solomon_Egede_Software_Engineer.pdf)" download>
+  <a href="https://github.com/AnonSols/cv/raw/main/Solomon_Egede_Software_Engineer.pdf" download>
 
 <img src="https://img.shields.io/badge/Download%20My%20CV-32CD32?style=for-the-badge&logo=download" alt="Download CV" width="170" height="50" />
 
@@ -131,10 +131,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Execution+>+Ideas.;Let's+build.;Action+Over+Intelligence!." />
     <br />
 </h1>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAnonSols%26show_icons%3Dtrue%26hide_border%3Dtrue%26title_color%3Dffffff%26icon_color%3Dffffff%26text_color%3Da3a3a3%26bg_color%3D050505%26hide%3Dstars,issues%26count_private%3Dtrue" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAnonSols%26layout%3Dcompact%26hide_border%3Dtrue%26title_color%3Dffffff%26text_color%3Da3a3a3%26bg_color%3D050505" width="48%" />
-</div>
-
-<br />
+ 
