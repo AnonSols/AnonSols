@@ -55,13 +55,13 @@
  <hr/>
  
 <h2 align="center">⚒️ THE TECHNICAL ARSENAL ⚒️</h2>
-<br />
-<div align="center">
+
+<!-- <div align="center">
     <!-- <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,nodejs" /> -->
+    <!-- <br />
     <br />
-    <br />
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,bash,linux,git,github,vscode" />
-</div>
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,bash,linux,git,github,vscode" /> -->
+<!-- </div> --> 
 
 
 <div align="center">
@@ -95,7 +95,7 @@
 <hr/>
 
 <h2 align="center">⚡ TELEMETRY ⚡</h2>
-<br>
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnonSols&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
 
