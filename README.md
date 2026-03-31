@@ -85,9 +85,9 @@
 </div>
 
 <hr/>
-
+<br>
 <h2 align="center">⚡ TELEMETRY ⚡</h2>
-
+<br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnonSols&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
 
@@ -135,7 +135,9 @@
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <br>
 
+
 ---
+
 ### 🏆 PROOF OF WORK (ARCHITECTURAL HIGHLIGHTS)
 
 > [!IMPORTANT]
@@ -173,12 +175,6 @@
  
 
 
-
-| Domain | Core Competencies |
-| :--- | :--- |
-| **Frontend Architecture** | `Next.js 14` `TypeScript` `Responsive Design` `State Management` |
-| **AI & Workflow** | `OpenAI API` `n8n Orchestration` `LLM Integration` `Intent Detection` |
-| **Systems & Security** | `Linux Hardening` `Automation Scripting` `Malware Remediation` `CI/CD` |
 
 ---
 
