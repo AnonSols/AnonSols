@@ -139,7 +139,7 @@
 ### 🏆 PROOF OF WORK (ARCHITECTURAL HIGHLIGHTS)
 
 > [!IMPORTANT]
-> [cite_start]**KatrinAI: Voice-First AI Operating System** [cite: 57]
+>  **KatrinAI: Voice-First AI Operating System**
 > * **Stack:** Python, OpenAI, WebSockets, React
 > * **Impact:** Achieved sub-400ms latency for real-time task execution, including objection handling and automated bookings.
 
