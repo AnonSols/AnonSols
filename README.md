@@ -6,8 +6,12 @@
 
 <div align="center">
 <br />
-<h3 align="center">I am an execution-driven Software Engineer with 5+ years of experience specializing in scalable frontend architecture, AI API integration, and workflow automation.</h3>
-
+<!-- <h3 align="center">I am an execution-driven Software Engineer with 5+ years of experience specializing in scalable frontend architecture, AI API integration, and workflow automation.</h3> -->
+<div align="center">
+  <h2>"I architect systems that finish the job."</h2>
+  <p><strong>Lead Software Engineer • 5+ Years of Experience</strong></p>
+  <p>Execution-driven architect specializing in bridging complex AI/Python backends with high-performance React frontends. I build intelligent, voice-first operating systems, automate enterprise data pipelines, and engineer scalable workflow solutions.</p>
+</div>
 </div>
 
 <br/>
@@ -54,7 +58,7 @@
 <br />
  <hr/>
  
-<h2 align="center">⚒️ The Arsenal ⚒️</h2>
+<h2 align="center">⚒️ THE TECHNICAL ARSENAL ⚒️</h2>
 <br />
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,nodejs" />
@@ -62,6 +66,25 @@
     <br />
     <img src="https://skillicons.dev/icons?i=supabase,postgres,bash,linux,git,github,vscode" />
 </div>
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,framer,redux" alt="Frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase,mongodb,express,fastapi" alt="Backend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,vscode,figma" alt="Tools" />
+</div>
+
+<br />
+
+| Domain | Core Competencies |
+| :--- | :--- |
+| **Frontend Architecture** | `Next.js 14` `TypeScript` `Responsive Design` `State Management` |
+| **AI & Workflow** | `OpenAI API` `n8n Orchestration` `LLM Integration` `Intent Detection` |
+| **Systems & Security** | `Linux Hardening` `Automation Scripting` `Malware Remediation` `CI/CD` |
+
+---
 
 <br/>
 <hr/>
@@ -75,12 +98,18 @@
 
 <hr/>
 
-<h2 align="center">⚡ Telemetry ⚡</h2>
+<h2 align="center">⚡ TELEMETRY ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnonSols&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
 
-  
+  | Process | Status | Internal Logic |
+| :--- | :--- | :--- |
+| **Architecting** | ![Active](https://img.shields.io/badge/-LIVE-32CD32?style=flat-square) | **KatrinAI:** Voice-First AI Operating System |
+| **Engineering** | ![Stable](https://img.shields.io/badge/-STABLE-0077B5?style=flat-square) | High-performance React & Supabase architectures |
+| **Automating** | ![Optimizing](https://img.shields.io/badge/-OPTIMIZING-FF5722?style=flat-square) | Government-level data pipelines (NCC Dashboard) |
+| **Hardening** | ![Secured](https://img.shields.io/badge/-SECURED-6e5494?style=flat-square) | Custom Python/Bash malware heuristics & remediation |
+
 <br />
     
 </div>
@@ -116,7 +145,26 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+### 🏆 PROOF OF WORK (ARCHITECTURAL HIGHLIGHTS)
 
+> [!IMPORTANT]
+> [cite_start]**KatrinAI: Voice-First AI Operating System** [cite: 57]
+> * **Stack:** Python, OpenAI, WebSockets, React
+> * **Impact:** Achieved sub-400ms latency for real-time task execution, including objection handling and automated bookings.
+
+> [!TIP]
+> **NCC Dashboard: Enterprise Data Automation**
+> * **Stack:** React, Automated Data Pipelines, SQL
+> * **Impact:** Automated government-level data reporting, resulting in a 40% increase in operational productivity.
+
+> [!WARNING]
+> **Security Infrastructure: Server Hardening**
+> [cite_start]* **Stack:** Linux Bash, Python Cron-Jobs [cite: 38]
+> * **Impact:** Developed custom heuristics to monitor and remediate vulnerabilities across 20+ production servers.
+
+---
+
+<br />
 
 </div>
 
@@ -157,74 +205,6 @@
 
 <br />
 
-<div align="center">
-  <h3>"I architect systems that finish the job."</h3>
-  [cite_start]<p><strong>Lead Software Engineer with 5+ years of experience [cite: 8]</strong></p>
-  <p>Specializing in bridging heavy AI/Python backends with high-performance React frontends. I build intelligent, execution-driven operating systems and automate enterprise data pipelines.</p>
-</div>
 
----
 
-### 📡 SYSTEM TELEMETRY (ACTIVE NODES)
-| Process | Status | Internal Logic |
-| :--- | :--- | :--- |
-| **Architecting** | ![Active](https://img.shields.io/badge/-LIVE-32CD32?style=flat-square) | **KatrinAI:** Voice-First AI Operating System |
-| **Engineering** | ![Stable](https://img.shields.io/badge/-STABLE-0077B5?style=flat-square) | High-performance React & Supabase architectures |
-| **Automating** | ![Optimizing](https://img.shields.io/badge/-OPTIMIZING-FF5722?style=flat-square) | Government-level data pipelines (NCC Dashboard) |
-| **Hardening** | ![Secured](https://img.shields.io/badge/-SECURED-6e5494?style=flat-square) | Custom Python/Bash malware heuristics & remediation |
 
----
-
-### 🛠️ THE TECHNICAL ARSENAL
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,framer,redux" alt="Frontend" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase,mongodb,express,fastapi" alt="Backend" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,vscode,figma" alt="Tools" />
-</div>
-
-<br />
-
-| Domain | Core Competencies |
-| :--- | :--- |
-| **Frontend Architecture** | `Next.js 14` `TypeScript` `Responsive Design` `State Management` |
-| **AI & Workflow** | `OpenAI API` `n8n Orchestration` `LLM Integration` `Intent Detection` |
-| **Systems & Security** | `Linux Hardening` `Automation Scripting` `Malware Remediation` `CI/CD` |
-
----
-
-### 🏆 PROOF OF WORK (ARCHITECTURAL HIGHLIGHTS)
-
-> [!IMPORTANT]
-> [cite_start]**KatrinAI: Voice-First AI Operating System** [cite: 57]
-> * **Stack:** Python, OpenAI, WebSockets, React
-> * **Impact:** Achieved sub-400ms latency for real-time task execution, including objection handling and automated bookings.
-
-> [!TIP]
-> **NCC Dashboard: Enterprise Data Automation**
-> * **Stack:** React, Automated Data Pipelines, SQL
-> * **Impact:** Automated government-level data reporting, resulting in a 40% increase in operational productivity.
-
-> [!WARNING]
-> **Security Infrastructure: Server Hardening**
-> [cite_start]* **Stack:** Linux Bash, Python Cron-Jobs [cite: 38]
-> * **Impact:** Developed custom heuristics to monitor and remediate vulnerabilities across 20+ production servers.
-
----
-
-### 📊 EXECUTION METRICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnonSols&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=050505&hide=stars,issues&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonSols&layout=compact&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=050505" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnonSols/AnonSols/output/github-contribution-grid-snake.svg" alt="Execution Grid" />
-  <br />
-  <p><em>"Execution > Ideas. Let's build."</em></p>
-</div>
