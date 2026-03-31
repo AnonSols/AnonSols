@@ -104,36 +104,10 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<br>
-
-</div>
 
 <br/>
 
-
-
- 
-
- 
-
-<!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/apiusername=AnonSols&hide=HTML,CSS&langs_count=6&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
-<br/>
-
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonSols&layout=compact&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,cpp,mui,html,css,vscode,github,figma,tailwind,git" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,supabase,mongodb,c,redux,nextjs,rust" /><br>
-
-</div> -->
 
 
 
