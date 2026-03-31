@@ -55,7 +55,7 @@
  <hr/>
  
 <h2 align="center">⚒️ The Arsenal ⚒️</h2>
-
+<br />
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,nodejs" />
     <br />
@@ -68,7 +68,7 @@
 
 <div align="center">
   <h2>🐍 Execution Grid 🐍</h2>
-  
+  <br />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AnonSols/AnonSols/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
@@ -128,7 +128,7 @@
 
 <br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Execution+>+Ideas.;Let's+build.Action+Over+Intelligence!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Execution+>+Ideas.;Let's+build.;Action+Over+Intelligence!." />
     <br />
 </h1>
 
