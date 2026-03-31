@@ -129,7 +129,7 @@
 
   <a href="https://github.com/AnonSols/cv/raw/main/Ubeath'sCV.docx" download>
 
-    <img src="https://img.shields.io/badge/Download%20My%20CV-32CD32?style=for-the-badge&logo=download" alt="Download CV" width="170" height="50" />
+<img src="https://img.shields.io/badge/Download%20My%20CV-32CD32?style=for-the-badge&logo=download" alt="Download CV" width="170" height="50" />
 
   </a>
 
@@ -143,7 +143,7 @@
 
  
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
 
@@ -153,7 +153,7 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,supabase,mongodb,c,redux,nextjs,rust" /><br>
 
-</div>
+</div> -->
 
 
 
