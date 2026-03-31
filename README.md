@@ -90,8 +90,10 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnonSols&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+    
 <br >
-  | Process | Status | Internal Logic |
+    
+| Process | Status | Internal Logic |
 | :--- | :--- | :--- |
 | **Architecting** | ![Active](https://img.shields.io/badge/-LIVE-32CD32?style=flat-square) | **KatrinAI:** Voice-First AI Operating System |
 | **Engineering** | ![Stable](https://img.shields.io/badge/-STABLE-0077B5?style=flat-square) | High-performance React & Supabase architectures |
@@ -100,6 +102,12 @@
 
 <br />
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br>
+
+</div>
 
 
 </div>
