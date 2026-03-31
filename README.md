@@ -5,13 +5,9 @@
 </h1>
 
 <div align="center">
-<br />
-<!-- <h3 align="center">I am an execution-driven Software Engineer with 5+ years of experience specializing in scalable frontend architecture, AI API integration, and workflow automation.</h3> -->
-<div align="center">
-  <h2>"I architect systems that finish the job."</h2>
-  <p><strong>Lead Software Engineer • 5+ Years of Experience</strong></p>
-  <p>Execution-driven architect specializing in bridging complex AI/Python backends with high-performance React frontends. I build intelligent, voice-first operating systems, automate enterprise data pipelines, and engineer scalable workflow solutions.</p>
-</div>
+  <h2>"I architect high-performance web systems that finish the job."</h2>
+  <p><strong>Lead Software Engineer • Full-Stack Web Developer • 5+ Years of Experience</strong></p>
+  <p>Execution-driven engineer bridging complex AI/Python backends with high-performance React frontends. Currently scaling AI operating systems, optimizing DevOps pipelines, and advancing as a cybersecurity enthusiast with hands-on experience in server hardening and malware remediation.</p>
 </div>
 
 <br/>
@@ -61,7 +57,7 @@
 <h2 align="center">⚒️ THE TECHNICAL ARSENAL ⚒️</h2>
 <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,nodejs" />
+    <!-- <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,nodejs" /> -->
     <br />
     <br />
     <img src="https://skillicons.dev/icons?i=supabase,postgres,bash,linux,git,github,vscode" />
@@ -145,6 +141,9 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br>
+
+---
 ### 🏆 PROOF OF WORK (ARCHITECTURAL HIGHLIGHTS)
 
 > [!IMPORTANT]
@@ -185,25 +184,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=150&section=header&text=EGEDE%20SOLOMON&fontSize=50&fontColor=ffffff&desc=Lead%20AI%20Systems%20%26%20Frontend%20Engineer&descAlignY=75&descSize=22" width="100%" />
 </div>
 
-<div align="center">
-  <br />
-  <a href="https://ubeath.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/egede-solomon-32766a23a/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:soloschmail@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/AnonSols/cv/raw/main/Solomon_Egede_Software_Engineer.pdf">
-    <img src="https://img.shields.io/badge/DOWNLOAD_CV-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
-  </a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=AnonSols&color=050505&style=flat-square&label=SYSTEM+VISITORS" alt="Visitors" />
-</div>
-
-<br />
 
 
 
