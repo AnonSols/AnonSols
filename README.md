@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <h2>"I architect high-performance web systems that finish the job."</h2>
+  <h2>"I architect high-performance web systems that finish the job."</h2><br />
   <p><strong>Lead Software Engineer • Full-Stack Web Developer • 5+ Years of Experience</strong></p>
   <p>Execution-driven engineer bridging complex AI/Python backends with high-performance React frontends. Currently scaling AI operating systems, optimizing DevOps pipelines, and advancing as a cybersecurity enthusiast with hands-on experience in server hardening and malware remediation.</p>
 </div>
