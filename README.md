@@ -84,7 +84,7 @@
   
 <br />
     
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=AnonSols&hide=HTML,CSS&langs_count=6&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/apiusername=AnonSols&hide=HTML,CSS&langs_count=6&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
 
 </div>
@@ -93,21 +93,7 @@
 
 <hr/>
 
-<br/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Execution+>+Ideas.;Let's+build." />
-    <br />
-</h1>
-
-
-
-
-
-
-<br />
-
- <hr/>
+ 
 
  
 
@@ -141,7 +127,10 @@
 </h3>
 
 <br/>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Execution+>+Ideas.;Let's+build." />
+    <br />
+</h1>
 
 
 
