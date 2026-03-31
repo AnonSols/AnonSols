@@ -56,14 +56,6 @@
  
 <h2 align="center">⚒️ THE TECHNICAL ARSENAL ⚒️</h2>
 
-<!-- <div align="center">
-    <!-- <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,nodejs" /> -->
-    <!-- <br />
-    <br />
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,bash,linux,git,github,vscode" /> -->
-<!-- </div> --> 
-
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,framer,redux" alt="Frontend" />
   <br />
@@ -180,11 +172,99 @@
 </h1>
  
 
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=150&section=header&text=EGEDE%20SOLOMON&fontSize=50&fontColor=ffffff&desc=Lead%20AI%20Systems%20%26%20Frontend%20Engineer&descAlignY=75&descSize=22" width="100%" />
 </div>
 
+<div align="center">
+  <br />
+  <a href="https://ubeath.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/egede-solomon-32766a23a/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:soloschmail@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AnonSols/cv/raw/main/Solomon_Egede_Software_Engineer.pdf">
+    <img src="https://img.shields.io/badge/DOWNLOAD_CV-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=AnonSols&color=050505&style=flat-square&label=SYSTEM+VISITORS" alt="Visitors" />
+</div>
 
+<br />
 
+<div align="center">
+  <h3>"I architect systems that finish the job."</h3>
+  [cite_start]<p><strong>Lead Software Engineer with 5+ years of experience [cite: 8]</strong></p>
+  <p>Specializing in bridging heavy AI/Python backends with high-performance React frontends. I build intelligent, execution-driven operating systems and automate enterprise data pipelines.</p>
+</div>
 
+---
 
+### 📡 SYSTEM TELEMETRY (ACTIVE NODES)
+| Process | Status | Internal Logic |
+| :--- | :--- | :--- |
+| **Architecting** | ![Active](https://img.shields.io/badge/-LIVE-32CD32?style=flat-square) | **KatrinAI:** Voice-First AI Operating System |
+| **Engineering** | ![Stable](https://img.shields.io/badge/-STABLE-0077B5?style=flat-square) | High-performance React & Supabase architectures |
+| **Automating** | ![Optimizing](https://img.shields.io/badge/-OPTIMIZING-FF5722?style=flat-square) | Government-level data pipelines (NCC Dashboard) |
+| **Hardening** | ![Secured](https://img.shields.io/badge/-SECURED-6e5494?style=flat-square) | Custom Python/Bash malware heuristics & remediation |
+
+---
+
+### 🛠️ THE TECHNICAL ARSENAL
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,framer,redux" alt="Frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase,mongodb,express,fastapi" alt="Backend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,vscode,figma" alt="Tools" />
+</div>
+
+<br />
+
+| Domain | Core Competencies |
+| :--- | :--- |
+| **Frontend Architecture** | `Next.js 14` `TypeScript` `Responsive Design` `State Management` |
+| **AI & Workflow** | `OpenAI API` `n8n Orchestration` `LLM Integration` `Intent Detection` |
+| **Systems & Security** | `Linux Hardening` `Automation Scripting` `Malware Remediation` `CI/CD` |
+
+---
+
+### 🏆 PROOF OF WORK (ARCHITECTURAL HIGHLIGHTS)
+
+> [!IMPORTANT]
+> [cite_start]**KatrinAI: Voice-First AI Operating System** [cite: 57]
+> * **Stack:** Python, OpenAI, WebSockets, React
+> * **Impact:** Achieved sub-400ms latency for real-time task execution, including objection handling and automated bookings.
+
+> [!TIP]
+> **NCC Dashboard: Enterprise Data Automation**
+> * **Stack:** React, Automated Data Pipelines, SQL
+> * **Impact:** Automated government-level data reporting, resulting in a 40% increase in operational productivity.
+
+> [!WARNING]
+> **Security Infrastructure: Server Hardening**
+> [cite_start]* **Stack:** Linux Bash, Python Cron-Jobs [cite: 38]
+> * **Impact:** Developed custom heuristics to monitor and remediate vulnerabilities across 20+ production servers.
+
+---
+
+### 📊 EXECUTION METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnonSols&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=a3a3a3&bg_color=050505&hide=stars,issues&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonSols&layout=compact&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=050505" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnonSols/AnonSols/output/github-contribution-grid-snake.svg" alt="Execution Grid" />
+  <br />
+  <p><em>"Execution > Ideas. Let's build."</em></p>
+</div>
