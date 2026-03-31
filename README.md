@@ -1,92 +1,26 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=AnonSols&color=blueviolet" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=120&section=header&text=EGEDE%20SOLOMON&fontSize=50&fontColor=ffffff&desc=Lead%20AI%20Systems%20%26%20Frontend%20Engineer&descAlignY=75&descSize=20" width="100%" />
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Egede+Solomon+Ubeath;Lead+AI+Systems+Engineer;Software+Engineer;Bridging+AI+with+UIs" />
-</h1>
+<br />
 
 <div align="center">
-<br />
-<h3 align="center">I am an execution-driven Software Engineer with 5+ years of experience specializing in scalable frontend architecture, AI API integration, and workflow automation.</h3>
-
+  <p><strong>I bridge the gap between heavy AI/Python backends and high-performance React frontends.</strong></p>
+  <p>Execution > Ideas. I specialize in building voice-first AI operating systems, automating enterprise data pipelines, and hardening server infrastructure against vulnerabilities.</p>
 </div>
-
-<br/>
-
-<div align="left">
- 
- 🔭 I’m currently building **KatrinAI (Voice-First AI Operating System)**
- 
- 🌱 I’m currently focused on **Advanced DevOps & Infrastructure Hardening**
-
- 💬 Ask me about **React, Next.js, Python Automation, or AI Integration**
-
- ⚡ Fun fact: **I write scripts to hunt malware for fun.**
-
- </div>
-
-<br />
-<br />
- 
-<div align="center"> 
-  <a href="mailto:soloschmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/egede-solomon-32766a23a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://ubeath.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" /> 
-  </a>
-  <a href="https://x.com/sigma_ubeath" target="_blank">
-     <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=X&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<br />
- <hr/>
- 
-<h2 align="center">⚒️ The Arsenal ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,nodejs" />
-    <br />
-    <br />
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,bash,linux,git,github,vscode" />
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
-  <h2>🐍 Execution Grid 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AnonSols/AnonSols/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <a href="https://ubeath.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-050505?style=flat-square&logo=vercel&logoColor=white&logoWidth=20&labelColor=050505&color=222222" alt="Portfolio" /></a>
+  <a href="mailto:soloschmail@gmail.com"><img src="https://img.shields.io/badge/-Email-050505?style=flat-square&logo=gmail&logoColor=white&logoWidth=20&labelColor=050505&color=222222" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/egede-solomon-32766a23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20&labelColor=050505&color=222222" alt="LinkedIn" /></a>
+  <a href="https://katrinai.cloud" target="_blank"><img src="https://img.shields.io/badge/-KatrinAI-050505?style=flat-square&logo=python&logoColor=white&logoWidth=20&labelColor=050505&color=222222" alt="KatrinAI" /></a>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Telemetry ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnonSols&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonSols&layout=compact&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  
 <br />
-    
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=AnonSols&hide=HTML,CSS&langs_count=6&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
-</div>
 
-</div>
-
-<br/>
-
-<hr/>
-
-<br/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Execution+>+Ideas.;Let's+build." />
-    <br />
-</h1>
+### 📡 CURRENT TELEMETRY
+```text
+[ARCHITECTING] ➔ The Core Action Engine for KatrinAI (Voice-First AI OS).
+[ENGINEERING]  ➔ High-performance, scalable Next.js & React architectures.
+[AUTOMATING]   ➔ Government-level data visualization pipelines (NCC Dashboard).
+[HARDENING]    ➔ Linux environments using custom Python/Bash malware heuristics.
