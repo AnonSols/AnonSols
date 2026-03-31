@@ -57,7 +57,7 @@
 <h2 align="center">⚒️ THE TECHNICAL ARSENAL ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,framer,redux" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,framermotion,redux" alt="Frontend" />
   <br />
   <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase,mongodb,express,fastapi" alt="Backend" />
   <br />
@@ -86,7 +86,7 @@
 
 <hr/>
 <br>
-<h2 align="center">⚡ TELEMETRY ⚡</h2>
+<h2 align="center">⚡ TELEMETRY ⚡<br> </h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnonSols&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
@@ -136,27 +136,6 @@
 <br>
 
 
----
-
-### 🏆 PROOF OF WORK (ARCHITECTURAL HIGHLIGHTS)
-
-> [!IMPORTANT]
-> [cite_start]**KatrinAI: Voice-First AI Operating System** [cite: 57]
-> * **Stack:** Python, OpenAI, WebSockets, React
-> * **Impact:** Achieved sub-400ms latency for real-time task execution, including objection handling and automated bookings.
-
-> [!TIP]
-> **NCC Dashboard: Enterprise Data Automation**
-> * **Stack:** React, Automated Data Pipelines, SQL
-> * **Impact:** Automated government-level data reporting, resulting in a 40% increase in operational productivity.
-
-> [!WARNING]
-> **Security Infrastructure: Server Hardening**
-> [cite_start]* **Stack:** Linux Bash, Python Cron-Jobs [cite: 38]
-> * **Impact:** Developed custom heuristics to monitor and remediate vulnerabilities across 20+ production servers.
-
----
-
 <br />
 
 </div>
@@ -167,11 +146,7 @@
 
 </h3>
 
-<br/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Execution+>+Ideas.;Let's+build.;Action+Over+Intelligence!." />
-    <br />
-</h1>
+
  
 
 
@@ -196,3 +171,10 @@
 > * **Impact:** Developed custom heuristics to monitor and remediate vulnerabilities across 20+ production servers.
 
 ---
+
+<br/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Execution+>+Ideas.;Let's+build.;Action+Over+Intelligence!." />
+    <br />
+</h1>
