@@ -5,9 +5,13 @@
 </h1>
 
 <div align="center">
+
   <h2>I architect high-performance web systems that finish the job.</h2><br />
-  <p><strong>Lead Software Engineer • Full-Stack Web Developer • 5+ Years of Experience</strong></p>
-  <p>Execution-driven engineer bridging complex AI/Python backends with high-performance React frontends. Currently scaling AI operating systems, optimizing DevOps pipelines, and advancing as a cybersecurity enthusiast with hands-on experience in server hardening and malware remediation.</p>
+
+  <p><strong>Lead Software Engineer • AI Workflow Engineer • 5+ Years of Experience</strong></p>
+
+  <p>Execution-driven engineer specializing in scalable frontend architecture, AI automation pipelines, and infrastructure security. I bridge the gap between complex Python backends and high-performance React/Next.js interfaces, while actively hardening enterprise web servers and migrating legacy infrastructure.</p>
+
 </div>
 
 <br/>
@@ -62,7 +66,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase,mongodb,express,fastapi" alt="Backend" />
   <br />
-  <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,vscode,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,vscode,figma,aws,jest,cypress" alt="Tools" />
 
 | Domain | Core Competencies |
 | :--- | :--- |
