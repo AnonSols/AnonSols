@@ -62,7 +62,7 @@
 <h2 align="center">⚒️ THE TECHNICAL ARSENAL ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,gsap,framer" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" alt="Frontend" />
   <br />
   <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase,mongodb,express,fastapi" alt="Backend" />
   <br />
