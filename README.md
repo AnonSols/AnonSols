@@ -62,22 +62,24 @@
 <h2 align="center">⚒️ THE TECHNICAL ARSENAL ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" alt="Core Systems" />
   <br />
-  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase,mongodb,express,fastapi" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" alt="Frontend Architecture" />
   <br />
-  <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,vscode,figma,aws,jest,cypress" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase,mongodb,express,fastapi" alt="Backend & Data" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,vscode,figma,aws,jest,cypress" alt="DevOps & Tools" />
 
 | Domain | Core Competencies |
 | :--- | :--- |
-| **Frontend Architecture** | `Next.js 14` `TypeScript` `Responsive Design` `State Management` |
-| **AI & Workflow** | `OpenAI API` `n8n Orchestration` `LLM Integration` `Intent Detection` |
-| **Systems & Security** | `Linux Hardening` `Automation Scripting` `Malware Remediation` `CI/CD` |
+| **Core Systems Engineering** | `C / C++` `Java` `Python Architecture` `Node.js` |
+| **Frontend Architecture** | `Next.js 15` `TypeScript` `React Ecosystem` `Tailwind CSS` |
+| **AI & Automation** | `LLM Integration` `Agentic Workflows` `n8n Orchestration` `Intent Detection` |
+| **DevOps & Security** | `Linux Hardening` `Docker` `CI/CD` `Malware Remediation` |
 </div>
 
 <br />
 
----
 
 <br/>
 <hr/>
@@ -94,8 +96,13 @@
 <h2 align="center">⚡ TELEMETRY ⚡ </h2>
 <br>
 <div align=center>
+    
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnonSols&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
     
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=anonsols&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="all commits"/>
+    
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonsols&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="streak stats"/>
+  
 <br >
     
 | Process | Status | Internal Logic |
@@ -133,10 +140,6 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 </h3>
-
-
- 
-
 
 
 ---
