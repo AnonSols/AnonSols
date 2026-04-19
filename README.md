@@ -8,7 +8,7 @@
 
   <h2>I architect high-performance web systems that finish the job.</h2><br />
 
-  <p><strong>Lead Software Engineer • AI Workflow Engineer • 5+ Years of Experience</strong></p>
+  <p><strong>Lead Software Engineer • AI Systems Engineer • 5+ Years of Experience</strong></p>
 
   <p>Execution-driven engineer specializing in scalable frontend architecture, AI automation pipelines, and infrastructure security. I bridge the gap between complex Python backends and high-performance React/Next.js interfaces, while actively hardening enterprise web servers and migrating legacy infrastructure.</p>
 
