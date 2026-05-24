@@ -17,16 +17,16 @@
 <br/>
 
 <div align="left">
- 
- 🔭 I’m currently building **KatrinAI (Voice-First AI Operating System)**
- 
+
+ 🔭 I’m currently building **KatrinAI (Voice-First AI OS)** and **Rabahh (Automated Conversion Infrastructure)**
+
  🌱 I’m currently focused on **Advanced DevOps & Infrastructure Hardening**
 
- 💬 Ask me about **React, Next.js, Python Automation, or AI Integration**
+ 💬 Ask me about **Next.js Architecture, Python Automation, or AI Integration**
 
  ⚡ Fun fact: **I write scripts to hunt malware for fun.**
 
- </div>
+</div>
 
 <br />
 <br />
